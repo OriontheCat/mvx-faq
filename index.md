@@ -1,6 +1,4 @@
-## Community FAQ
----
-#### Question?
+### Question?
 > This is a sample quote.
  Second line.
 
